@@ -1,0 +1,4 @@
+next step is to study about basic knowledge about frontend
+html
+css
+javascript
